@@ -1,0 +1,116 @@
+[
+  [["", "home", "net"], {
+    "url": "https://xubiod.net/",
+    "note": "Standard homepage",
+    "sub": []
+  }],
+
+  [["ai"], {
+      "url": "https://xubiod.net/ai-policy/",
+      "note": "AI policy, tl;dr I don't consent to AI training on my content"
+  }],
+  [["donate", "tip"], {
+      "url": "https://xubiod.net/donate",
+      "note": "List of options to donate/tip"
+  }],
+
+  [["pixelle", "pix"], {
+    "url": "https://xubiod.net/chr/index.php?s=pixelle",
+    "note": "Personal page for character: Pixelle"
+  }],
+  [["aki"], {
+    "url": "https://xubiod.net/chr/index.php?s=aki",
+    "note": "Personal page for character: Aki"
+  }],
+  [["emi"], {
+    "url": "https://xubiod.net/chr/index.php?s=emi",
+    "note": "Personal page for character: Emi"
+  }],
+  [["rikki", "rik"], {
+    "url": "https://xubiod.net/chr/index.php?s=rikki",
+    "note": "Personal page for character: Rikki"
+  }],
+
+  [["toyhouse", "toyhou.se", "th"], {
+    "url": "https://toyhou.se/Xubiod",
+    "note": "Personal ToyHouse profile",
+    "sub": [
+      [["aki"], {
+        "url": "https://toyhou.se/28847430.aki",
+        "note": "ToyHouse page for character: Aki"
+      }],
+      [["pixelle", "pix"], {
+        "url": "https://toyhou.se/28846811.pixelle",
+        "note": "ToyHouse page for character: Pixelle"
+      }],
+      [["rikki", "rik"], {
+        "url": "https://toyhou.se/28848224.rikki",
+        "note": "ToyHouse page for character: Rikki"
+      }]
+    ]
+  }],
+
+  [["artfight", "artfight.net", "af"], {
+    "url": "https://artfight.net/~xubiod",
+    "note": "Personal Art Fight profile",
+    "sub": [
+      [["aki"], {
+        "url": "https://artfight.net/character/7327777.aki",
+        "note": "Art Fight page for: Aki"
+      }],
+      [["pixelle", "pix"], {
+        "url": "https://artfight.net/character/7326986.pixelle",
+        "note": "Art Fight page for: Pixelle"
+      }],
+      [["rikki", "rik"], {
+        "url": "https://artfight.net/character/7327354.rikki",
+        "note": "Art Fight page for: Rikki"
+      }]
+    ]
+  }],
+
+  [["bsky", "bsky.app", "bluesky"], {
+    "url": "https://bsky.app/profile/did:plc:gridi2vf2dxljbjfexnr2csu",
+    "note": "Bluesky"
+  }],
+
+  [["en.pronouns.page", "pronouns.page", "pronouns"], {
+    "url": "https://en.pronouns.page/@xubiod",
+    "note": "Pronouns.page"
+  }],
+
+  [["ko-fi.com", "ko-fi", "kofi"], {
+    "url": "https://ko-fi.com/xubiod",
+    "note": "Ko-fi page"
+  }],
+
+  [["paypal.me", "paypal"], {
+    "url": "https://paypal.me/XubiodCreative",
+    "note": "Paypal.me through business account"
+  }],
+
+  [["newgrounds.com", "ng", "newgrounds"], {
+    "url": "https://xubiod.newgrounds.com/",
+    "note": "Newgrounds profile"
+  }],
+
+  [["tumblr.com", "tumblr"], {
+    "url": "https://www.tumblr.com/xubiod",
+    "note": "Tumblr"
+  }],
+
+  [["xantronix.social", "xantronix", "xan"], {
+    "url": "https://xantronix.social/@xubiod",
+    "note": "Xantronix's Mastodon instance"
+  }],
+
+  [["youtube", "youtu.be", "youtube.com", "yt"], {
+    "url": "https://www.youtube.com/@xubiod",
+    "note": "YouTube channel"
+  }],
+
+  [["copyright", "stolen", "copy", "c"], {
+    "url": "https://someonestolemy.work",
+    "note": "\"Someone stole my work!\" website"
+  }]
+]

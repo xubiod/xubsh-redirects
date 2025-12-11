@@ -1,3 +1,5 @@
+import data from "./data.json"
+
 function superlist_step(input, request_host, path_prestart = "", tabbing = "") {
 	let r = ""
 	input.forEach(element => {
@@ -16,7 +18,7 @@ export default {
 	async fetch(request, env) {
 		const requestURL = new URL(request.url)
 		const path = requestURL.pathname
-		const redirect_map = env.ev_redirects2
+		const redirect_map = JSON.parse(data)
 
 		if (path.startsWith("/superlist")) {
 			return new Response(superlist_step(redirect_map, requestURL.host))
