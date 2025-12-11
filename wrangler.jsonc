@@ -1,0 +1,267 @@
+{
+  "name": "xubsh-redirects",
+  "main": "src/index.js",
+  "workers_dev": true,
+  "preview_urls": true,
+  "compatibility_date": "2025-08-07",
+  "compatibility_flags": [
+    "nodejs_compat",
+    "disallow_eval_during_startup"
+  ],
+  "routes": [
+    {
+      "pattern": "goto.xubiod.net/*",
+      "zone_name": "xubiod.net"
+    },
+    {
+      "pattern": "xub.sh",
+      "zone_name": "xub.sh",
+      "custom_domain": true
+    }
+  ],
+  "vars": {
+    "name": "ev_redirects2",
+    "json": [
+      [
+        [
+          "",
+          "home",
+          "net"
+        ],
+        {
+          "note": "Standard homepage",
+          "sub": [],
+          "url": "https://xubiod.net/"
+        }
+      ],
+      [
+        [
+          "ai"
+        ],
+        {
+          "note": "AI policy, tl;dr I don't consent to AI training on my content",
+          "url": "https://xubiod.net/ai-policy/"
+        }
+      ],
+      [
+        [
+          "donate",
+          "tip"
+        ],
+        {
+          "note": "List of options to donate/tip",
+          "url": "https://xubiod.net/donate"
+        }
+      ],
+      [
+        [
+          "pixelle",
+          "pix"
+        ],
+        {
+          "note": "Personal page for character: Pixelle",
+          "url": "https://xubiod.net/chr/index.php?s=pixelle"
+        }
+      ],
+      [
+        [
+          "aki"
+        ],
+        {
+          "note": "Personal page for character: Aki",
+          "url": "https://xubiod.net/chr/index.php?s=aki"
+        }
+      ],
+      [
+        [
+          "emi"
+        ],
+        {
+          "note": "Personal page for character: Emi",
+          "url": "https://xubiod.net/chr/index.php?s=emi"
+        }
+      ],
+      [
+        [
+          "rikki",
+          "rik"
+        ],
+        {
+          "note": "Personal page for character: Rikki",
+          "url": "https://xubiod.net/chr/index.php?s=rikki"
+        }
+      ],
+      [
+        [
+          "toyhouse",
+          "toyhou.se",
+          "th"
+        ],
+        {
+          "note": "Personal ToyHouse profile",
+          "sub": [
+            [
+              [
+                "aki"
+              ],
+              {
+                "note": "ToyHouse page for character: Aki",
+                "url": "https://toyhou.se/28847430.aki"
+              }
+            ],
+            [
+              [
+                "pixelle",
+                "pix"
+              ],
+              {
+                "note": "ToyHouse page for character: Pixelle",
+                "url": "https://toyhou.se/28846811.pixelle"
+              }
+            ],
+            [
+              [
+                "rikki",
+                "rik"
+              ],
+              {
+                "note": "ToyHouse page for character: Rikki",
+                "url": "https://toyhou.se/28848224.rikki"
+              }
+            ]
+          ],
+          "url": "https://toyhou.se/Xubiod"
+        }
+      ],
+      [
+        [
+          "artfight",
+          "artfight.net",
+          "af"
+        ],
+        {
+          "note": "Personal Art Fight profile",
+          "sub": [
+            [
+              [
+                "aki"
+              ],
+              {
+                "note": "Art Fight page for: Aki",
+                "url": "https://artfight.net/character/7327777.aki"
+              }
+            ],
+            [
+              [
+                "pixelle",
+                "pix"
+              ],
+              {
+                "note": "Art Fight page for: Pixelle",
+                "url": "https://artfight.net/character/7326986.pixelle"
+              }
+            ],
+            [
+              [
+                "rikki",
+                "rik"
+              ],
+              {
+                "note": "Art Fight page for: Rikki",
+                "url": "https://artfight.net/character/7327354.rikki"
+              }
+            ]
+          ],
+          "url": "https://artfight.net/~xubiod"
+        }
+      ],
+      [
+        [
+          "bsky",
+          "bsky.app",
+          "bluesky"
+        ],
+        {
+          "note": "Bluesky",
+          "url": "https://bsky.app/profile/did:plc:gridi2vf2dxljbjfexnr2csu"
+        }
+      ],
+      [
+        [
+          "en.pronouns.page",
+          "pronouns.page",
+          "pronouns"
+        ],
+        {
+          "note": "Pronouns.page",
+          "url": "https://en.pronouns.page/@xubiod"
+        }
+      ],
+      [
+        [
+          "ko-fi.com",
+          "ko-fi",
+          "kofi"
+        ],
+        {
+          "note": "Ko-fi page",
+          "url": "https://ko-fi.com/xubiod"
+        }
+      ],
+      [
+        [
+          "paypal.me",
+          "paypal"
+        ],
+        {
+          "note": "Paypal.me through business account",
+          "url": "https://paypal.me/XubiodCreative"
+        }
+      ],
+      [
+        [
+          "newgrounds.com",
+          "ng",
+          "newgrounds"
+        ],
+        {
+          "note": "Newgrounds profile",
+          "url": "https://xubiod.newgrounds.com/"
+        }
+      ],
+      [
+        [
+          "tumblr.com",
+          "tumblr"
+        ],
+        {
+          "note": "Tumblr",
+          "url": "https://www.tumblr.com/xubiod"
+        }
+      ],
+      [
+        [
+          "xantronix.social",
+          "xantronix",
+          "xan"
+        ],
+        {
+          "note": "Xantronix's Mastodon instance",
+          "url": "https://xantronix.social/@xubiod"
+        }
+      ],
+      [
+        [
+          "youtube",
+          "youtu.be",
+          "youtube.com",
+          "yt"
+        ],
+        {
+          "note": "YouTube channel",
+          "url": "https://www.youtube.com/@xubiod"
+        }
+      ]
+    ]
+  }
+}
