@@ -9,7 +9,7 @@
       "url": "https://xubiod.net/ai-policy/",
       "note": "AI policy, tl;dr I don't consent to AI training on my content"
   }],
-  [["donate", "tip"], {
+  [["donate", "tip", "pay"], {
       "url": "https://xubiod.net/donate",
       "note": "List of options to donate/tip"
   }],
@@ -69,7 +69,7 @@
     ]
   }],
 
-  [["bsky", "bsky.app", "bluesky"], {
+  [["bsky", "bsky.app", "bluesky", "bs"], {
     "url": "https://bsky.app/profile/did:plc:gridi2vf2dxljbjfexnr2csu",
     "note": "Bluesky"
   }],
@@ -79,7 +79,7 @@
     "note": "Pronouns.page"
   }],
 
-  [["ko-fi.com", "ko-fi", "kofi"], {
+  [["ko-fi.com", "ko-fi", "kofi", "%E2%98%95", "%E2%98%95%EF%B8%8F"], {
     "url": "https://ko-fi.com/xubiod",
     "note": "Ko-fi page"
   }],
