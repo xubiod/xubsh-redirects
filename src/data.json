@@ -50,6 +50,25 @@
     ]
   }],
 
+  [["unvale", "unvale.io", "uv"], {
+    "url": "https://unvale.io/xubiod",
+    "note": "Personal Unvale profile",
+    "sub": [
+      [["aki"], {
+        "url": "https://unvale.io/character/cfcb51b2-4e1b-4843-a8ea-3039528e7d7b",
+        "note": "Unvale page for character: Aki"
+      }],
+      [["pixelle", "pix"], {
+        "url": "https://unvale.io/character/7a32f559-a024-45a5-820a-4dd2cc973977",
+        "note": "Unvale page for character: Pixelle"
+      }],
+      [["rikki", "rik"], {
+        "url": "https://unvale.io/character/ac78c8cf-13db-49ff-a7e8-6046ff053fe3",
+        "note": "Unvale page for character: Rikki"
+      }]
+    ]
+  }],
+
   [["artfight", "artfight.net", "af"], {
     "url": "https://artfight.net/~xubiod",
     "note": "Personal Art Fight profile",
