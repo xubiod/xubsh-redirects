@@ -8,7 +8,7 @@ function superlist_step(input, request_host, path_prestart = "", tabbing = "") {
 		r += `${name}${tabbing}--->\t${data.url}\n\t${tabbing}${data.note}\n\n`
 
 		if (data.sub !== undefined) {
-			r += superlist_step(data.sub, request_host, `/${element[0][0]}`, "")
+			r += superlist_step(data.sub, request_host, `${path_prestart}/${element[0][0]}`, "")
 		}
 	})
 	return r
