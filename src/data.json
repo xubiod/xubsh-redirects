@@ -37,7 +37,13 @@
     "sub": [
       [["aki"], {
         "url": "https://toyhou.se/28847430.aki",
-        "note": "ToyHouse page for character: Aki"
+        "note": "ToyHouse page for character: Aki",
+        "sub": [
+          [["toxic", "toxicsona"], {
+            "url": "https://toyhou.se/28847430.aki/37057271.toxicsona-non-canon",
+            "note": "ToyHouse page for character alternate: Aki, toxicsona"
+          }]
+        ]
       }],
       [["pixelle", "pix"], {
         "url": "https://toyhou.se/28846811.pixelle",
