@@ -140,7 +140,13 @@
 
   [["newgrounds.com", "ng", "newgrounds"], {
     "url": "https://xubiod.newgrounds.com/",
-    "note": "Newgrounds profile"
+    "note": "Newgrounds profile",
+    "sub": [
+      [["gallery", "art"], {
+        "url": "https://xubiod.newgrounds.com/art",
+        "note": "Newgrounds art gallery"
+      }]
+    ]
   }],
 
   [["tumblr.com", "tumblr"], {
