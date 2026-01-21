@@ -167,5 +167,10 @@
   [["copyright", "stolen", "copy", "c", "dmca", "ssmw"], {
     "url": "https://someonestolemy.work",
     "note": "\"Someone stole my work!\" website"
+  }],
+
+  [["source", "sourcecode", "src"], {
+    "url": "https://github.com/xubiod/xubsh-redirects",
+    "note": "The source of how this domain works"
   }]
 ]
