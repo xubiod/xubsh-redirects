@@ -22,13 +22,25 @@
     "url": "https://xubiod.net/chr/index.php?s=aki",
     "note": "Personal page for character: Aki"
   }],
+  [["rikki", "rik"], {
+    "url": "https://xubiod.net/chr/index.php?s=rikki",
+    "note": "Personal page for character: Rikki"
+  }],
+  [["alpha"], {
+    "url": "https://xubiod.net/chr/index.php?s=alpha",
+    "note": "Personal page for character: Alpha"
+  }],
+  [["beta", "fursona"], {
+    "url": "https://xubiod.net/chr/index.php?s=beta",
+    "note": "Personal page for character: Beta"
+  }],
   [["emi"], {
     "url": "https://xubiod.net/chr/index.php?s=emi",
     "note": "Personal page for character: Emi"
   }],
-  [["rikki", "rik"], {
-    "url": "https://xubiod.net/chr/index.php?s=rikki",
-    "note": "Personal page for character: Rikki"
+  [["nullptr"], {
+    "url": "https://xubiod.net/chr/index.php?s=nullptr",
+    "note": "Personal page for character: NULLPTR"
   }],
 
   [["toyhouse", "toyhou.se", "th"], {
@@ -52,6 +64,18 @@
       [["rikki", "rik"], {
         "url": "https://toyhou.se/28848224.rikki",
         "note": "ToyHouse page for character: Rikki"
+      }],
+      [["alpha"], {
+        "url": "hhttps://toyhou.se/34852596.alpha",
+        "note": "ToyHouse page for character: Alpha"
+      }],
+      [["beta", "fursona"], {
+        "url": "https://toyhou.se/34852631.beta",
+        "note": "ToyHouse page for character: Beta"
+      }],
+      [["nullptr"], {
+        "url": "https://toyhou.se/34518078.nullptr",
+        "note": "ToyHouse page for character: NULLPTR"
       }]
     ]
   }],
