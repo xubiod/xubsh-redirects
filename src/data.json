@@ -54,16 +54,32 @@
           [["toxic", "toxicsona"], {
             "url": "https://toyhou.se/28847430.aki/37057271.toxicsona-non-canon",
             "note": "ToyHouse page for character alternate: Aki, toxicsona"
+          }],
+          [["reference-sheet", "refsheet", "ref"], {
+            "url": "https://toyhou.se/28847430.aki/28864264.references",
+            "note": "Direct to sub-gallery for plain reference material; may be outdated though refer to other pieces more"
           }]
         ]
       }],
       [["pixelle", "pix"], {
         "url": "https://toyhou.se/28846811.pixelle",
-        "note": "ToyHouse page for character: Pixelle"
+        "note": "ToyHouse page for character: Pixelle",
+        "sub": [
+          [["reference-sheet", "refsheet", "ref"], {
+            "url": "https://toyhou.se/28846811.pixelle/28864424.references",
+            "note": "Direct to sub-gallery for plain reference material; may be outdated though refer to other pieces more"
+          }]
+        ]
       }],
       [["rikki", "rik"], {
         "url": "https://toyhou.se/28848224.rikki",
-        "note": "ToyHouse page for character: Rikki"
+        "note": "ToyHouse page for character: Rikki",
+        "sub": [
+          [["reference-sheet", "refsheet", "ref"], {
+            "url": "https://toyhou.se/28848224.rikki/28864411.references",
+            "note": "Direct to sub-gallery for plain reference material; may be outdated though refer to other pieces more"
+          }]
+        ]
       }],
       [["alpha"], {
         "url": "hhttps://toyhou.se/34852596.alpha",
