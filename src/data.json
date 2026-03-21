@@ -176,6 +176,11 @@
     ]
   }],
 
+  [["steamcommunity.com", "steam-profile", "steam"], {
+    "url": "https://steamcommunity.com/id/xubiod/",
+    "note": "Steam profile"
+  }],
+
   [["threads", "threads.com", "thrds"], {
     "url": "https://www.threads.com/@xubiod_",
     "note": "Threads (note: is \"xubiod_\" and NOT \"xubiod\" plain! That was claimed before me on Instagram.)"
