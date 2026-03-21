@@ -150,6 +150,11 @@
     "note": "Pronouns.page"
   }],
 
+  [["instagram", "instagram.com", "ig"], {
+    "url": "https://www.instagram.com/xubiod_/",
+    "note": "Instagram (note: is \"xubiod_\" and NOT \"xubiod\" plain! That was claimed before me.)"
+  }],
+
   [["ko-fi.com", "ko-fi", "kofi", "%E2%98%95", "%E2%98%95%EF%B8%8F"], {
     "url": "https://ko-fi.com/xubiod",
     "note": "Ko-fi page"
@@ -169,6 +174,11 @@
         "note": "Newgrounds art gallery"
       }]
     ]
+  }],
+
+  [["threads", "threads.com", "thrds"], {
+    "url": "https://www.threads.com/@xubiod_",
+    "note": "Threads (note: is \"xubiod_\" and NOT \"xubiod\" plain! That was claimed before me on Instagram.)"
   }],
 
   [["tumblr.com", "tumblr"], {
