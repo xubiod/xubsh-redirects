@@ -183,7 +183,21 @@
 
   [["steamcommunity.com", "steam-profile", "steam"], {
     "url": "https://steamcommunity.com/id/xubiod/",
-    "note": "Steam profile"
+    "note": "Steam profile",
+    "sub": [
+      [["reviews", "recommended"], {
+        "url": "https://steamcommunity.com/id/xubiod/recommended/",
+        "note": "Steam reviews"
+      }],
+      [["artwork", "art", "images"], {
+        "url": "https://steamcommunity.com/id/xubiod/images/",
+        "note": "Steam artwork"
+      }],
+      [["screenshots"], {
+        "url": "https://steamcommunity.com/id/xubiod/screenshots/",
+        "note": "Steam public screenshots"
+      }]
+    ]
   }],
 
   [["threads", "threads.com", "thrds"], {
