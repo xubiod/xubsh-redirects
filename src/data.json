@@ -145,6 +145,11 @@
     ]
   }],
 
+  [["cara", "cara.app"], {
+    "url": "https://cara.app/xubiod",
+    "note": "Cara"
+  }],
+
   [["en.pronouns.page", "pronouns.page", "pronouns"], {
     "url": "https://en.pronouns.page/@xubiod",
     "note": "Pronouns.page"
