@@ -165,6 +165,25 @@
     "note": "Instagram (note: is \"xubiod_\" and NOT \"xubiod\" plain! That was claimed before me.)"
   }],
 
+  [["lorepository"] , {
+    "url": "https://lorepository.com/users/lpris5-xubiod",
+    "note": "Lorepository profile page",
+    "sub": [
+      [["pixelle", "pix"], {
+        "url": "https://lorepository.com/characters/g3mnqe-pixelle",
+        "note": "Lorepository page for character: Pixelle"
+      }],
+      [["aki"], {
+        "url": "https://lorepository.com/characters/kpkpqg-aki",
+        "note": "Lorepository page for character: Aki"
+      }],
+      [["rikki", "rik"], {
+        "url": "https://lorepository.com/characters/5bde2i-rikki",
+        "note": "Lorepository page for character: Rikki"
+      }]
+    ]
+  }],
+
   [["ko-fi.com", "ko-fi", "kofi", "%E2%98%95", "%E2%98%95%EF%B8%8F"], {
     "url": "https://ko-fi.com/xubiod",
     "note": "Ko-fi page"
