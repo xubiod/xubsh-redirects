@@ -172,7 +172,13 @@
 
   [["itch", "itch.io"], {
     "url": "https://xubiod.itch.io/",
-    "note": "Creator itch.io page"
+    "note": "Creator itch.io page",
+    "sub": [
+      [["community", "user"], {
+        "url": "https://itch.io/profile/xubiod",
+        "note": "Community profile on itch.io"
+      }]
+    ]
   }],
 
   [["lorepository", "lr", "lorepository.com"] , {
