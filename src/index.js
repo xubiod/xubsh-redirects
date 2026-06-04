@@ -3,12 +3,12 @@ import data from "./data.json"
 function superlist_step(input, request_host, path_prestart = "", tabbing = "") {
 	let r = ""
 	input.forEach(element => {
-		let name = element[0].reduce((acc, v) => acc = `${tabbing}${acc}${request_host}${path_prestart}/${v}\n`, "")
+		let name = element[0].reduce((acc, v) => acc = `${acc}${tabbing}${request_host}${path_prestart}/${v}\n`, "")
 		let data = element[1]
 		r += `${name}${tabbing}--->\t${data.url}\n\t${tabbing}${data.note}\n\n`
 
 		if (data.sub !== undefined) {
-			r += superlist_step(data.sub, request_host, `${path_prestart}/${element[0][0]}`, "")
+			r += superlist_step(data.sub, request_host, `${path_prestart}/${element[0][0]}`, `${tabbing}\t`)
 		}
 	})
 	return r
