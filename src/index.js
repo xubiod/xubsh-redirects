@@ -29,7 +29,7 @@ export default {
 		let searchin = redirect_map
 
 		for (let i = 0; i < tokens.length; i++) {
-			if (searchin == undefined) {
+			if (searchin === undefined) {
 				continue
 			}
 
