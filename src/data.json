@@ -221,6 +221,17 @@
     ]
   }],
 
+  [["spriters-resource.com", "spriters-resource", "tsr"], {
+    "url": "https://www.spriters-resource.com/profile/xubiod/",
+    "note": "Profile on spriters-resource.com",
+    "sub": [
+      [["sounds", "sfx"], {
+        "url": "https://sounds.spriters-resource.com/profile/xubiod/",
+        "note": "Profile on sister-site, sounds.spriters-resource.com"
+      }]
+    ]
+  }],
+
   [["steamcommunity.com", "steam-profile", "steam"], {
     "url": "https://steamcommunity.com/id/xubiod/",
     "note": "Steam profile",
