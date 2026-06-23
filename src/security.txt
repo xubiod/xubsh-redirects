@@ -1,0 +1,7 @@
+# This is a website with majorly statically served content. As such, security
+# queries are not of any concern to Xubiod. If there is truly an issue, feel free
+# to get in touch through less professional means first (@xubiod.net on Bluesky
+# as an example) for privacy protections.
+
+Contact: https://xubiod.net/irrelevant
+Expires: 2200-11-20T17:00:00.000Z

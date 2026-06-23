@@ -23,7 +23,8 @@
     {
       "type": "Text",
       "globs": [
-        "**/*.json"
+        "**/*.json",
+        "**/*.txt"
       ],
       "fallthrough": true
     }

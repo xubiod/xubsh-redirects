@@ -1,4 +1,5 @@
 import data from "./data.json"
+import security from "./security.txt"
 
 function superlist_step(input, request_host, path_prestart = "", tabbing = "") {
 	let r = ""
@@ -22,6 +23,10 @@ export default {
 
 		if (path.startsWith("/superlist")) {
 			return new Response(superlist_step(redirect_map, requestURL.host))
+		}
+
+		if (path.endsWith("security.txt")) {
+			return new Response(security)
 		}
 
 		const tokens = path.split("/").slice(1)
