@@ -159,6 +159,11 @@
     "note": "Pronouns.page"
   }],
 
+  [["furaffinity", "furaffinity.net", "fa"], {
+    "url": "https://www.furaffinity.net/user/xubiod",
+    "note": "FurAffinity"
+  }],
+
   [["github.com", "github", "gh"], {
     "url": "https://github.com/xubiod",
     "note": "Github profile"
