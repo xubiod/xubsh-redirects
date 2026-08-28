@@ -290,6 +290,12 @@
     "note": "Tumblr"
   }],
 
+  [["twitter.com", "twitter"], {
+    "url": "https://twitter.com/Xubiod",
+    "note": "Twitter (don't.)",
+    "forcedwait": 4500
+  }],
+
   [["xantronix.social", "xantronix", "xan", "mastodon", "fediverse"], {
     "url": "https://xantronix.social/@xubiod",
     "note": "Xantronix's Mastodon instance"

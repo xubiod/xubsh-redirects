@@ -46,6 +46,9 @@ export default {
 		}
 
 		if (founditem !== undefined) {
+			if (Object.hasOwn(founditem[1], "forcedwait")) {
+				await new Promise(resolve => setTimeout(resolve, founditem[1].forcedwait))
+			}
 			return Response.redirect(founditem[1].url, 308)
 		}
 
