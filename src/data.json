@@ -183,11 +183,11 @@
     "note": "Instagram (note: is \"xubiod_\" and NOT \"xubiod\" plain! That was claimed before me.)"
   }],
 
-  [["itch", "itch.io"], {
+  [["itch", "itch.io", "games", "software", "soft"], {
     "url": "https://xubiod.itch.io/",
     "note": "Creator itch.io page",
     "sub": [
-      [["community", "user"], {
+      [["community", "user", "library"], {
         "url": "https://itch.io/profile/xubiod",
         "note": "Community profile on itch.io"
       }]
