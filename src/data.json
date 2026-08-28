@@ -14,7 +14,7 @@
       "note": "List of options to donate/tip"
   }],
 
-  [["pixelle", "pix"], {
+  [["pixelle", "pix", "persona", "sona", "mascot"], {
     "url": "https://xubiod.net/chr/index.php?s=pixelle",
     "note": "Personal page for character: Pixelle"
   }],
@@ -51,7 +51,7 @@
         "url": "https://toyhou.se/28847430.aki",
         "note": "ToyHouse page for character: Aki",
         "sub": [
-          [["toxic", "toxicsona"], {
+          [["toxic", "toxicsona", "toxin", "toxinsona"], {
             "url": "https://toyhou.se/28847430.aki/37057271.toxicsona-non-canon",
             "note": "ToyHouse page for character alternate: Aki, toxicsona"
           }],
@@ -61,7 +61,7 @@
           }]
         ]
       }],
-      [["pixelle", "pix"], {
+      [["pixelle", "pix", "persona", "sona", "mascot"], {
         "url": "https://toyhou.se/28846811.pixelle",
         "note": "ToyHouse page for character: Pixelle",
         "sub": [
@@ -92,6 +92,10 @@
       [["nullptr"], {
         "url": "https://toyhou.se/34518078.nullptr",
         "note": "ToyHouse page for character: NULLPTR"
+      }],
+      [["flirt"], {
+        "url": "https://toyhou.se/28864811.flirt",
+        "note": "ToyHouse page for character: Flirt"
       }]
     ]
   }],
@@ -104,7 +108,7 @@
         "url": "https://unvale.io/character/cfcb51b2-4e1b-4843-a8ea-3039528e7d7b",
         "note": "Unvale page for character: Aki"
       }],
-      [["pixelle", "pix"], {
+      [["pixelle", "pix", "persona", "sona", "mascot"], {
         "url": "https://unvale.io/character/7a32f559-a024-45a5-820a-4dd2cc973977",
         "note": "Unvale page for character: Pixelle"
       }],
@@ -123,7 +127,7 @@
         "url": "https://artfight.net/character/7327777.aki",
         "note": "Art Fight page for: Aki"
       }],
-      [["pixelle", "pix"], {
+      [["pixelle", "pix", "persona", "sona", "mascot"], {
         "url": "https://artfight.net/character/7326986.pixelle",
         "note": "Art Fight page for: Pixelle"
       }],
@@ -142,7 +146,7 @@
         "url": "https://bsky.app/hashtag/art?author=xubiod.net",
         "note": "Bluesky, only posts with #art"
       }],
-      [["witchsky", "witchsky.app", "witch"], {
+      [["witchsky", "witchsky.app", "witch", "ws"], {
         "url": "https://witchsky.app/profile/did:plc:gridi2vf2dxljbjfexnr2csu",
         "note": "Via the Witchsky web app"
       }]
@@ -151,12 +155,33 @@
 
   [["cara", "cara.app"], {
     "url": "https://cara.app/xubiod",
-    "note": "Cara"
+    "note": "Cara",
+    "sub": [
+      [["all", "posts"], {
+        "url": "https://cara.app/xubiod/all",
+        "note": "All posts on Cara (not portfolio)"
+      }]
+    ]
   }],
 
   [["en.pronouns.page", "pronouns.page", "pronouns"], {
     "url": "https://en.pronouns.page/@xubiod",
     "note": "Pronouns.page"
+  }],
+
+  [["furaffinity", "furaffinity.net", "fa"], {
+    "url": "https://www.furaffinity.net/user/xubiod",
+    "note": "FurAffinity",
+    "sub": [
+      [["gallery", "art"], {
+        "url": "https://www.furaffinity.net/gallery/xubiod/",
+        "note": "Directly to gallery"
+      }],
+      [["scraps", "sketches"], {
+        "url": "https://www.furaffinity.net/scraps/xubiod/",
+        "note": "Directly to scraps"
+      }]
+    ]
   }],
 
   [["github.com", "github", "gh"], {
@@ -174,11 +199,11 @@
     "note": "Instagram (note: is \"xubiod_\" and NOT \"xubiod\" plain! That was claimed before me.)"
   }],
 
-  [["itch", "itch.io"], {
+  [["itch", "itch.io", "games", "software", "soft"], {
     "url": "https://xubiod.itch.io/",
     "note": "Creator itch.io page",
     "sub": [
-      [["community", "user"], {
+      [["community", "user", "library"], {
         "url": "https://itch.io/profile/xubiod",
         "note": "Community profile on itch.io"
       }]
@@ -189,7 +214,7 @@
     "url": "https://lorepository.com/users/lpris5-xubiod",
     "note": "Lorepository profile page",
     "sub": [
-      [["pixelle", "pix"], {
+      [["pixelle", "pix", "persona", "sona", "mascot"], {
         "url": "https://lorepository.com/characters/g3mnqe-pixelle",
         "note": "Lorepository page for character: Pixelle"
       }],
@@ -248,7 +273,7 @@
         "url": "https://steamcommunity.com/id/xubiod/images/",
         "note": "Steam artwork"
       }],
-      [["screenshots"], {
+      [["screenshots", "screengrabs", "screencaps"], {
         "url": "https://steamcommunity.com/id/xubiod/screenshots/",
         "note": "Steam public screenshots"
       }]
@@ -263,6 +288,12 @@
   [["tumblr.com", "tumblr"], {
     "url": "https://www.tumblr.com/xubiod",
     "note": "Tumblr"
+  }],
+
+  [["twitter.com", "twitter"], {
+    "url": "https://twitter.com/Xubiod",
+    "note": "Twitter (don't.)",
+    "forcedwait": 4500
   }],
 
   [["xantronix.social", "xantronix", "xan", "mastodon", "fediverse"], {
