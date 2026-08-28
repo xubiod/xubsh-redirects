@@ -146,7 +146,7 @@
         "url": "https://bsky.app/hashtag/art?author=xubiod.net",
         "note": "Bluesky, only posts with #art"
       }],
-      [["witchsky", "witchsky.app", "witch"], {
+      [["witchsky", "witchsky.app", "witch", "ws"], {
         "url": "https://witchsky.app/profile/did:plc:gridi2vf2dxljbjfexnr2csu",
         "note": "Via the Witchsky web app"
       }]
