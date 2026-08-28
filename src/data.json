@@ -171,7 +171,17 @@
 
   [["furaffinity", "furaffinity.net", "fa"], {
     "url": "https://www.furaffinity.net/user/xubiod",
-    "note": "FurAffinity"
+    "note": "FurAffinity",
+    "sub": [
+      [["gallery", "art"], {
+        "url": "https://www.furaffinity.net/gallery/xubiod/",
+        "note": "Directly to gallery"
+      }],
+      [["scraps", "sketches"], {
+        "url": "https://www.furaffinity.net/scraps/xubiod/",
+        "note": "Directly to scraps"
+      }]
+    ]
   }],
 
   [["github.com", "github", "gh"], {
