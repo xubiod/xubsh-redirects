@@ -257,7 +257,7 @@
         "url": "https://steamcommunity.com/id/xubiod/images/",
         "note": "Steam artwork"
       }],
-      [["screenshots"], {
+      [["screenshots", "screengrabs", "screencaps"], {
         "url": "https://steamcommunity.com/id/xubiod/screenshots/",
         "note": "Steam public screenshots"
       }]
