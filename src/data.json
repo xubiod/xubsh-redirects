@@ -155,7 +155,13 @@
 
   [["cara", "cara.app"], {
     "url": "https://cara.app/xubiod",
-    "note": "Cara"
+    "note": "Cara",
+    "sub": [
+      [["all", "posts"], {
+        "url": "https://cara.app/xubiod/all",
+        "note": "All posts on Cara (not portfolio)"
+      }]
+    ]
   }],
 
   [["en.pronouns.page", "pronouns.page", "pronouns"], {
