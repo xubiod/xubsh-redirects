@@ -164,6 +164,25 @@
     ]
   }],
 
+  [["characterhub", "characterhub.com"], {
+    "url": "https://characterhub.com/profile/xubiod",
+    "note": "Profile on CharacterHub",
+    "sub": [
+      [["pixelle", "pix", "persona", "sona", "mascot"], {
+        "url": "https://characterhub.com/character/pixelle",
+        "note": "CharacterHub page for character: Pixelle"
+      }],
+      [["aki"], {
+        "url": "https://characterhub.com/character/aki-I9EdPTIn",
+        "note": "CharacterHub page for character: Aki"
+      }],
+      [["rikki", "rik"], {
+        "url": "https://characterhub.com/character/rikki-qjilVkZ5",
+        "note": "CharacterHub page for character: Rikki"
+      }]
+    ]
+  }],
+
   [["en.pronouns.page", "pronouns.page", "pronouns"], {
     "url": "https://en.pronouns.page/@xubiod",
     "note": "Pronouns.page"
