@@ -263,12 +263,12 @@
     ]
   }],
 
-  [["ko-fi.com", "ko-fi", "kofi", "%E2%98%95", "%E2%98%95%EF%B8%8F"], {
+  [["ko-fi.com", "ko-fi", "kofi", "%E2%98%95", "%E2%98%95%EF%B8%8F", "donate"], {
     "url": "https://ko-fi.com/xubiod",
     "note": "Ko-fi page"
   }],
 
-  [["paypal.me", "paypal"], {
+  [["paypal.me", "paypal", "pay"], {
     "url": "https://paypal.me/XubiodCreative",
     "note": "Paypal.me through business account"
   }],
