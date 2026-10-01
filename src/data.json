@@ -229,6 +229,21 @@
     ]
   }],
 
+  [["lexaloffle", "lexaloffle.com", "pico-8", "pico8", "picotron", "voxatron", "p8", "p64"], {
+    "url": "https://www.lexaloffle.com/bbs/?uid=16439",
+    "note": "Lexaloffle profile/personal blog",
+    "sub": [
+      [["cartridges", "carts"], {
+        "url": "https://www.lexaloffle.com/bbs/?uid=16439&mode=carts",
+        "note": "All carts posted to Lexaoffle forums/BBS"
+      }],
+      [["posts"], {
+        "url": "https://www.lexaloffle.com/bbs/?uid=16439&mode=posts",
+        "note": "All posts to Lexaloffle forums/BBS"
+      }]
+    ]
+  }],
+
   [["lorepository", "lr", "lorepository.com"] , {
     "url": "https://lorepository.com/users/lpris5-xubiod",
     "note": "Lorepository profile page",
