@@ -280,6 +280,14 @@
       [["gallery", "art"], {
         "url": "https://xubiod.newgrounds.com/art",
         "note": "Newgrounds art gallery"
+      }],
+      [["games"], {
+        "url": "https://xubiod.newgrounds.com/games",
+        "note": "Newgrounds games page"
+      }],
+      [["news", "blog"], {
+        "url": "https://xubiod.newgrounds.com/news",
+        "note": "Newgrounds news/blog posts"
       }]
     ]
   }],
