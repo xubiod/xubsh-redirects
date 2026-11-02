@@ -318,6 +318,11 @@
     ]
   }],
 
+  [["steamdeckrepo", "steamdeckrepo.com", "steamdeckvideos"], {
+    "url": "https://steamdeckrepo.com/user/17921",
+    "note": "Steam Deck Repo profile"
+  }],
+
   [["threads", "threads.com", "thrds"], {
     "url": "https://www.threads.com/@xubiod_",
     "note": "Threads (note: is \"xubiod_\" and NOT \"xubiod\" plain! That was claimed before me on Instagram.)"
