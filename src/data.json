@@ -115,6 +115,25 @@
     ]
   }],
 
+  [["anthera", "anthera.art"], {
+    "url": "https://anthera.art/@xubiod",
+    "note": "Anthera profile",
+    "sub": [
+      [["aki"], {
+        "url": "https://anthera.art/@xubiod/aki",
+        "note": "Anthera page for: Aki"
+      }],
+      [["pixelle", "pix", "persona", "sona", "mascot"], {
+        "url": "https://anthera.art/@xubiod/pixelle",
+        "note": "Anthera page for: Pixelle"
+      }],
+      [["rikki", "rik"], {
+        "url": "https://anthera.art/@xubiod/rikki",
+        "note": "Anthera page for: Rikki"
+      }]
+    ]
+  }],
+
   [["artfight", "artfight.net", "af"], {
     "url": "https://artfight.net/~xubiod",
     "note": "Personal Art Fight profile",
